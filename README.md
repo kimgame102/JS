@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 ## JavaScript
 <a name="readme-top"></a>
 
